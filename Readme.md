@@ -1,5 +1,3 @@
-Below is a **clean, canonical list of all major RAG variants**, grouped by category, with **original source links** (papers, official docs, LangChain docs, blog references, and research resources).
-No explanations — **only the list + sources**, exactly as you asked.
 
 ---
 
